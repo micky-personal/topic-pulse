@@ -77,7 +77,7 @@ class StockPredictionModel:
         logging.info("Starting model training...")
 
         # Separate features and target
-        X_train = df_train[self.features]
+        x_train = df_train[self.features]
         y_train = df_train['profitable_trade']
 
         # Create the full modeling pipeline with the preprocessor and classifier
@@ -87,7 +87,7 @@ class StockPredictionModel:
         ])
 
         # Train the model
-        self.model.fit(X_train, y_train)
+        self.model.fit(x_train, y_train)
         logging.info("Model training complete.")
 
     def evaluate(self, df_test):
@@ -101,10 +101,10 @@ class StockPredictionModel:
             logging.error("Model has not been trained. Cannot evaluate.")
             return
 
-        X_test = df_test[self.features]
+        x_test = df_test[self.features]
         y_test = df_test['profitable_trade']
 
-        y_pred = self.model.predict(X_test)
+        y_pred = self.model.predict(x_test)
 
         logging.info("--- Model Performance Metrics ---")
         logging.info(f"Accuracy: {accuracy_score(y_test, y_pred):.2f}")
@@ -145,6 +145,21 @@ class StockPredictionModel:
         return top_tickers
 
 
+def train_stock_prediction_model():
+    stock_prediction_model = StockPredictionModel()
+    # 3. Preprocess the data and split into training/testing sets
+    df_preprocessed = stock_prediction_model.preprocess_data(df_historical)
+    df_train, df_test = train_test_split(df_preprocessed, test_size=0.2, random_state=42)
+    # 4. Train the model
+    stock_prediction_model.train(df_train)
+    # 5. Evaluate the model's performance
+    stock_prediction_model.evaluate(df_test)
+    # 6. Save the trained model for later use
+    joblib.dump(stock_prediction_model, 'stock_predictor.joblib')
+    logging.info("Model saved as 'stock_predictor.joblib'")
+
+    return stock_prediction_model
+
 if __name__ == '__main__':
     # --- Example Usage ---
 
@@ -177,21 +192,7 @@ if __name__ == '__main__':
     df_historical = load_dummy_data(size=2000)
 
     # 2. Instantiate the model
-    model_instance = StockPredictionModel()
-
-    # 3. Preprocess the data and split into training/testing sets
-    df_preprocessed = model_instance.preprocess_data(df_historical)
-    df_train, df_test = train_test_split(df_preprocessed, test_size=0.2, random_state=42)
-
-    # 4. Train the model
-    model_instance.train(df_train)
-
-    # 5. Evaluate the model's performance
-    model_instance.evaluate(df_test)
-
-    # 6. Save the trained model for later use
-    joblib.dump(model_instance, 'stock_predictor.joblib')
-    logging.info("Model saved as 'stock_predictor.joblib'")
+    model_instance = train_stock_prediction_model()
 
     # --- Daily Prediction Use Case ---
     # 7. Load today's new data (to make a prediction)
