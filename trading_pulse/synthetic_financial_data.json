@@ -1,0 +1,5468 @@
+[
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3913.4,
+      "change_percent": 0.38,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 20.58,
+      "revenue": 353667.52,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 43.09,
+      "debt_to_equity": 0.01,
+      "cash_flow": 44658.25
+    },
+    "analyst_ratings": {
+      "buy": 7,
+      "hold": 3,
+      "sell": 6,
+      "target_price_avg": 5692.33
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-10",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2360.08,
+      "change_percent": 1.43,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 20.35,
+      "revenue": 129942.54,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 38.05,
+      "debt_to_equity": 0.59,
+      "cash_flow": 10540.27
+    },
+    "analyst_ratings": {
+      "buy": 20,
+      "hold": 12,
+      "sell": 8,
+      "target_price_avg": 2949.74
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-15",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-04",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2739.43,
+      "change_percent": 3.88,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 23.47,
+      "revenue": 739518.86,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 32.16,
+      "debt_to_equity": 1.96,
+      "cash_flow": 72766.28
+    },
+    "analyst_ratings": {
+      "buy": 17,
+      "hold": 3,
+      "sell": 7,
+      "target_price_avg": 3435.23
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-27",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-13",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3197.75,
+      "change_percent": -3.84,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 7.1,
+      "revenue": 36723.08,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.57,
+      "debt_to_equity": 1.65,
+      "cash_flow": 1231.33
+    },
+    "analyst_ratings": {
+      "buy": 18,
+      "hold": 17,
+      "sell": 1,
+      "target_price_avg": 3536.67
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-19",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2050.96,
+      "change_percent": -1.29,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 21.34,
+      "revenue": 138512.97,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 27.72,
+      "debt_to_equity": 1.54,
+      "cash_flow": 51922.68
+    },
+    "analyst_ratings": {
+      "buy": 9,
+      "hold": 16,
+      "sell": 0,
+      "target_price_avg": 2066.24
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-30",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-03",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1383.74,
+      "change_percent": -3.04,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 1.09,
+      "revenue": 763404.84,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 45.17,
+      "debt_to_equity": 0.94,
+      "cash_flow": 73870.91
+    },
+    "analyst_ratings": {
+      "buy": 48,
+      "hold": 10,
+      "sell": 6,
+      "target_price_avg": 1453.27
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-10",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 695.03,
+      "change_percent": 3.23,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 13.25,
+      "revenue": 284469.85,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 10.01,
+      "debt_to_equity": 1.78,
+      "cash_flow": 32681.65
+    },
+    "analyst_ratings": {
+      "buy": 0,
+      "hold": 18,
+      "sell": 3,
+      "target_price_avg": 932.61
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-02",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-14",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1169.12,
+      "change_percent": -3.74,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 24.82,
+      "revenue": 618263.69,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 13.08,
+      "debt_to_equity": 1.77,
+      "cash_flow": 30436.72
+    },
+    "analyst_ratings": {
+      "buy": 5,
+      "hold": 7,
+      "sell": 9,
+      "target_price_avg": 1735.5
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-01",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-02",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2564.71,
+      "change_percent": -2.97,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 10.9,
+      "revenue": 197017.21,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 22.08,
+      "debt_to_equity": 1.64,
+      "cash_flow": 67289.6
+    },
+    "analyst_ratings": {
+      "buy": 41,
+      "hold": 9,
+      "sell": 4,
+      "target_price_avg": 2469.15
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-29",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-24",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3116.03,
+      "change_percent": 1.03,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 5.68,
+      "revenue": 520641.77,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.5,
+      "debt_to_equity": 1.9,
+      "cash_flow": 28726.44
+    },
+    "analyst_ratings": {
+      "buy": 14,
+      "hold": 18,
+      "sell": 8,
+      "target_price_avg": 2681.09
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-26",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1988.91,
+      "change_percent": 3.54,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 13.52,
+      "revenue": 478297.59,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 41.35,
+      "debt_to_equity": 1.2,
+      "cash_flow": 32343.08
+    },
+    "analyst_ratings": {
+      "buy": 34,
+      "hold": 9,
+      "sell": 8,
+      "target_price_avg": 2933.95
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-22",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 3694.7,
+      "change_percent": 2.75,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 18.73,
+      "revenue": 861535.31,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 34.87,
+      "debt_to_equity": 0.22,
+      "cash_flow": 63791.26
+    },
+    "analyst_ratings": {
+      "buy": 48,
+      "hold": 5,
+      "sell": 0,
+      "target_price_avg": 5361.97
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-06",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-22",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-31",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2668.06,
+      "change_percent": -4.4,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 10.85,
+      "revenue": 613021.2,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 32.48,
+      "debt_to_equity": 1.21,
+      "cash_flow": 2542.95
+    },
+    "analyst_ratings": {
+      "buy": 9,
+      "hold": 8,
+      "sell": 3,
+      "target_price_avg": 2697.46
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-31",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-13",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-18",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3083.24,
+      "change_percent": 0.19,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 24.99,
+      "revenue": 165393.44,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 31.83,
+      "debt_to_equity": 0.75,
+      "cash_flow": 80111.06
+    },
+    "analyst_ratings": {
+      "buy": 8,
+      "hold": 19,
+      "sell": 5,
+      "target_price_avg": 4495.52
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-02",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-21",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2569.92,
+      "change_percent": -1.75,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 4.79,
+      "revenue": 788509.02,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 10.86,
+      "debt_to_equity": 0.21,
+      "cash_flow": 47537.11
+    },
+    "analyst_ratings": {
+      "buy": 34,
+      "hold": 2,
+      "sell": 8,
+      "target_price_avg": 2559.73
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-07",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-22",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-10",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1084.79,
+      "change_percent": 3.02,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 18.54,
+      "revenue": 792628.31,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.62,
+      "debt_to_equity": 1.17,
+      "cash_flow": 78927.94
+    },
+    "analyst_ratings": {
+      "buy": 20,
+      "hold": 5,
+      "sell": 2,
+      "target_price_avg": 1400.17
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-14",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-13",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3029.07,
+      "change_percent": -1.23,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 6.58,
+      "revenue": 798590.03,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 35.83,
+      "debt_to_equity": 0.56,
+      "cash_flow": 9817.75
+    },
+    "analyst_ratings": {
+      "buy": 26,
+      "hold": 19,
+      "sell": 0,
+      "target_price_avg": 3263.68
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-26",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-20",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1470.71,
+      "change_percent": -4.56,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 29.56,
+      "revenue": 624669.28,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.69,
+      "debt_to_equity": 0.81,
+      "cash_flow": 33505.07
+    },
+    "analyst_ratings": {
+      "buy": 44,
+      "hold": 0,
+      "sell": 8,
+      "target_price_avg": 2128.75
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-27",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1393.77,
+      "change_percent": 1.8,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 4.23,
+      "revenue": 451036.17,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 44.24,
+      "debt_to_equity": 1.13,
+      "cash_flow": 36370.13
+    },
+    "analyst_ratings": {
+      "buy": 47,
+      "hold": 18,
+      "sell": 2,
+      "target_price_avg": 1376.28
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-03",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2322.44,
+      "change_percent": -1.47,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 12.68,
+      "revenue": 197298.78,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 25.83,
+      "debt_to_equity": 1.39,
+      "cash_flow": 48260.27
+    },
+    "analyst_ratings": {
+      "buy": 48,
+      "hold": 5,
+      "sell": 5,
+      "target_price_avg": 2453.81
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-03",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1771.55,
+      "change_percent": -1.43,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 2.53,
+      "revenue": 868651.8,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 47.84,
+      "debt_to_equity": 1.1,
+      "cash_flow": 7732.47
+    },
+    "analyst_ratings": {
+      "buy": 35,
+      "hold": 18,
+      "sell": 6,
+      "target_price_avg": 1455.04
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-17",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3280.39,
+      "change_percent": 2.33,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 3.5,
+      "revenue": 49196.27,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 25.07,
+      "debt_to_equity": 1.29,
+      "cash_flow": 18470.2
+    },
+    "analyst_ratings": {
+      "buy": 29,
+      "hold": 0,
+      "sell": 8,
+      "target_price_avg": 4715.69
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-04",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-19",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-20",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3830.28,
+      "change_percent": 3.46,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 10.19,
+      "revenue": 117539.56,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 6.11,
+      "debt_to_equity": 1.69,
+      "cash_flow": 65352.64
+    },
+    "analyst_ratings": {
+      "buy": 6,
+      "hold": 16,
+      "sell": 8,
+      "target_price_avg": 4343.32
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-08",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-03",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-07",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2124.81,
+      "change_percent": 4.19,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 1.16,
+      "revenue": 334384.1,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 12.02,
+      "debt_to_equity": 0.96,
+      "cash_flow": 40080.58
+    },
+    "analyst_ratings": {
+      "buy": 37,
+      "hold": 12,
+      "sell": 9,
+      "target_price_avg": 2385.55
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 815.33,
+      "change_percent": -3.97,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 8.99,
+      "revenue": 907581.06,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 36.98,
+      "debt_to_equity": 0.38,
+      "cash_flow": 10739.86
+    },
+    "analyst_ratings": {
+      "buy": 25,
+      "hold": 15,
+      "sell": 1,
+      "target_price_avg": 1125.39
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-24",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-23",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2096.39,
+      "change_percent": 4.6,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 13.99,
+      "revenue": 990365.78,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 19.4,
+      "debt_to_equity": 0.82,
+      "cash_flow": 49289.08
+    },
+    "analyst_ratings": {
+      "buy": 48,
+      "hold": 15,
+      "sell": 5,
+      "target_price_avg": 2039.2
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-31",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-31",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 889.24,
+      "change_percent": 1.98,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 14.2,
+      "revenue": 971881.72,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 41.15,
+      "debt_to_equity": 1.37,
+      "cash_flow": 97000.05
+    },
+    "analyst_ratings": {
+      "buy": 4,
+      "hold": 2,
+      "sell": 8,
+      "target_price_avg": 1316.31
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-10",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-25",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-06",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2465.59,
+      "change_percent": 1.06,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 17.41,
+      "revenue": 68119.81,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 18.92,
+      "debt_to_equity": 1.32,
+      "cash_flow": 33957.82
+    },
+    "analyst_ratings": {
+      "buy": 25,
+      "hold": 10,
+      "sell": 4,
+      "target_price_avg": 2925.4
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-02",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-13",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-30",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2193.32,
+      "change_percent": -2.34,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 28.18,
+      "revenue": 923819.26,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 7.47,
+      "debt_to_equity": 1.92,
+      "cash_flow": 76178.05
+    },
+    "analyst_ratings": {
+      "buy": 28,
+      "hold": 11,
+      "sell": 3,
+      "target_price_avg": 2089.11
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-08",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-28",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-06",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2329.13,
+      "change_percent": 0.25,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 16.71,
+      "revenue": 339064.55,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 14.45,
+      "debt_to_equity": 1.74,
+      "cash_flow": 56676.27
+    },
+    "analyst_ratings": {
+      "buy": 25,
+      "hold": 2,
+      "sell": 7,
+      "target_price_avg": 3359.92
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-31",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-14",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1175.21,
+      "change_percent": -2.91,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 1.26,
+      "revenue": 733899.02,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 40.89,
+      "debt_to_equity": 1.33,
+      "cash_flow": 58187.89
+    },
+    "analyst_ratings": {
+      "buy": 6,
+      "hold": 8,
+      "sell": 3,
+      "target_price_avg": 1426.37
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-02",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2501.72,
+      "change_percent": -4.52,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 13.9,
+      "revenue": 636909.05,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 31.81,
+      "debt_to_equity": 1.08,
+      "cash_flow": 55792.39
+    },
+    "analyst_ratings": {
+      "buy": 44,
+      "hold": 3,
+      "sell": 2,
+      "target_price_avg": 2005.91
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-11",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-23",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2847.56,
+      "change_percent": 4.28,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 25.35,
+      "revenue": 904363.9,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 38.07,
+      "debt_to_equity": 0.88,
+      "cash_flow": 48619.79
+    },
+    "analyst_ratings": {
+      "buy": 39,
+      "hold": 1,
+      "sell": 3,
+      "target_price_avg": 3466.92
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-17",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-07",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-01",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 891.15,
+      "change_percent": 1.8,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 1.88,
+      "revenue": 550132.22,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.9,
+      "debt_to_equity": 0.69,
+      "cash_flow": 62969.25
+    },
+    "analyst_ratings": {
+      "buy": 0,
+      "hold": 7,
+      "sell": 6,
+      "target_price_avg": 745.78
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-23",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 1249.97,
+      "change_percent": -0.61,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 22.08,
+      "revenue": 636143.33,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 45.15,
+      "debt_to_equity": 1.34,
+      "cash_flow": 69618.11
+    },
+    "analyst_ratings": {
+      "buy": 32,
+      "hold": 14,
+      "sell": 3,
+      "target_price_avg": 1642.7
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-21",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 1025.74,
+      "change_percent": -4.25,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 16.27,
+      "revenue": 757640.51,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 22.38,
+      "debt_to_equity": 1.52,
+      "cash_flow": 66709.08
+    },
+    "analyst_ratings": {
+      "buy": 12,
+      "hold": 9,
+      "sell": 0,
+      "target_price_avg": 1139.82
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-06",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-15",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-16",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3645.32,
+      "change_percent": 3.18,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 26.6,
+      "revenue": 798811.53,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 18.39,
+      "debt_to_equity": 1.54,
+      "cash_flow": 573.18
+    },
+    "analyst_ratings": {
+      "buy": 44,
+      "hold": 11,
+      "sell": 4,
+      "target_price_avg": 4955.22
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-03",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 3624.28,
+      "change_percent": 1.68,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 19.81,
+      "revenue": 336956.96,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 20.13,
+      "debt_to_equity": 1.1,
+      "cash_flow": 20832.13
+    },
+    "analyst_ratings": {
+      "buy": 11,
+      "hold": 6,
+      "sell": 4,
+      "target_price_avg": 3192.12
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-28",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-02",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2954.25,
+      "change_percent": -4.32,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 28.15,
+      "revenue": 38237.19,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 17.44,
+      "debt_to_equity": 0.35,
+      "cash_flow": 44093.78
+    },
+    "analyst_ratings": {
+      "buy": 42,
+      "hold": 4,
+      "sell": 3,
+      "target_price_avg": 4000.1
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-18",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1664.74,
+      "change_percent": 4.36,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 6.83,
+      "revenue": 475237.24,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 40.32,
+      "debt_to_equity": 1.53,
+      "cash_flow": 36234.37
+    },
+    "analyst_ratings": {
+      "buy": 11,
+      "hold": 20,
+      "sell": 7,
+      "target_price_avg": 2025.09
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-13",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 528.4,
+      "change_percent": 3.65,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 3.81,
+      "revenue": 312233.16,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 20.17,
+      "debt_to_equity": 1.9,
+      "cash_flow": 21257.72
+    },
+    "analyst_ratings": {
+      "buy": 24,
+      "hold": 4,
+      "sell": 9,
+      "target_price_avg": 464.17
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2043.97,
+      "change_percent": 4.61,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 6.78,
+      "revenue": 922118.77,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 25.18,
+      "debt_to_equity": 1.72,
+      "cash_flow": 12841.1
+    },
+    "analyst_ratings": {
+      "buy": 35,
+      "hold": 14,
+      "sell": 7,
+      "target_price_avg": 2005.76
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-17",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-09",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1399.66,
+      "change_percent": 0.68,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 18.33,
+      "revenue": 117532.73,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 28.37,
+      "debt_to_equity": 1.84,
+      "cash_flow": 47187.3
+    },
+    "analyst_ratings": {
+      "buy": 49,
+      "hold": 9,
+      "sell": 2,
+      "target_price_avg": 1998.83
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-09",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3421.34,
+      "change_percent": -1.14,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 17.23,
+      "revenue": 775810.04,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 14.43,
+      "debt_to_equity": 0.95,
+      "cash_flow": 61541.59
+    },
+    "analyst_ratings": {
+      "buy": 37,
+      "hold": 8,
+      "sell": 9,
+      "target_price_avg": 3790.95
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-19",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2525.08,
+      "change_percent": 2.16,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 26.42,
+      "revenue": 274091.51,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 5.08,
+      "debt_to_equity": 0.32,
+      "cash_flow": 58104.74
+    },
+    "analyst_ratings": {
+      "buy": 35,
+      "hold": 4,
+      "sell": 3,
+      "target_price_avg": 3681.18
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-06",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 622.44,
+      "change_percent": 3.68,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 1.3,
+      "revenue": 498665.35,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.86,
+      "debt_to_equity": 1.41,
+      "cash_flow": 92397.14
+    },
+    "analyst_ratings": {
+      "buy": 47,
+      "hold": 3,
+      "sell": 4,
+      "target_price_avg": 644.25
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-21",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-29",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-30",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1240.22,
+      "change_percent": -3.36,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 1.46,
+      "revenue": 500638.57,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 31.06,
+      "debt_to_equity": 0.27,
+      "cash_flow": 76035.07
+    },
+    "analyst_ratings": {
+      "buy": 15,
+      "hold": 11,
+      "sell": 1,
+      "target_price_avg": 1370.48
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-18",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3335.22,
+      "change_percent": -2.94,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 10.06,
+      "revenue": 488505.74,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 44.05,
+      "debt_to_equity": 1.06,
+      "cash_flow": 60649.02
+    },
+    "analyst_ratings": {
+      "buy": 28,
+      "hold": 2,
+      "sell": 2,
+      "target_price_avg": 3489.17
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-30",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-01",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1635.8,
+      "change_percent": -4.91,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 15.28,
+      "revenue": 974675.97,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 39.69,
+      "debt_to_equity": 1.97,
+      "cash_flow": 92182.53
+    },
+    "analyst_ratings": {
+      "buy": 11,
+      "hold": 15,
+      "sell": 1,
+      "target_price_avg": 1755.19
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-10",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3522.09,
+      "change_percent": 3.48,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 18.88,
+      "revenue": 117515.33,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.96,
+      "debt_to_equity": 0.32,
+      "cash_flow": 31426.7
+    },
+    "analyst_ratings": {
+      "buy": 31,
+      "hold": 8,
+      "sell": 9,
+      "target_price_avg": 3605.33
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-09",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-29",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3261.86,
+      "change_percent": 2.42,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 8.2,
+      "revenue": 26537.34,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 37.79,
+      "debt_to_equity": 0.82,
+      "cash_flow": 36059.0
+    },
+    "analyst_ratings": {
+      "buy": 4,
+      "hold": 5,
+      "sell": 1,
+      "target_price_avg": 3179.85
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-18",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1209.28,
+      "change_percent": 0.19,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 10.44,
+      "revenue": 275919.12,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 23.29,
+      "debt_to_equity": 0.08,
+      "cash_flow": 5102.96
+    },
+    "analyst_ratings": {
+      "buy": 3,
+      "hold": 12,
+      "sell": 4,
+      "target_price_avg": 1013.79
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-02",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1601.29,
+      "change_percent": -2.05,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 1.06,
+      "revenue": 707374.38,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 30.82,
+      "debt_to_equity": 1.22,
+      "cash_flow": 63407.77
+    },
+    "analyst_ratings": {
+      "buy": 3,
+      "hold": 8,
+      "sell": 2,
+      "target_price_avg": 1956.27
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-24",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2986.15,
+      "change_percent": -4.82,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 24.16,
+      "revenue": 944580.8,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 27.84,
+      "debt_to_equity": 1.26,
+      "cash_flow": 18933.35
+    },
+    "analyst_ratings": {
+      "buy": 8,
+      "hold": 15,
+      "sell": 9,
+      "target_price_avg": 4042.87
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-03",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-18",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2117.12,
+      "change_percent": -4.35,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 4.77,
+      "revenue": 48316.86,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 22.65,
+      "debt_to_equity": 1.76,
+      "cash_flow": 36961.91
+    },
+    "analyst_ratings": {
+      "buy": 13,
+      "hold": 15,
+      "sell": 6,
+      "target_price_avg": 2825.26
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-31",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 549.42,
+      "change_percent": 3.72,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 12.56,
+      "revenue": 231585.82,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 46.5,
+      "debt_to_equity": 0.95,
+      "cash_flow": 20588.52
+    },
+    "analyst_ratings": {
+      "buy": 42,
+      "hold": 8,
+      "sell": 6,
+      "target_price_avg": 456.07
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-20",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-01",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-20",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 678.1,
+      "change_percent": 4.3,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 24.34,
+      "revenue": 13394.96,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 38.04,
+      "debt_to_equity": 0.63,
+      "cash_flow": 75512.45
+    },
+    "analyst_ratings": {
+      "buy": 49,
+      "hold": 18,
+      "sell": 1,
+      "target_price_avg": 604.67
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-18",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2857.96,
+      "change_percent": 2.76,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 20.11,
+      "revenue": 269622.7,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 45.3,
+      "debt_to_equity": 1.67,
+      "cash_flow": 37452.42
+    },
+    "analyst_ratings": {
+      "buy": 42,
+      "hold": 15,
+      "sell": 10,
+      "target_price_avg": 3868.63
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-27",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-24",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-16",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1605.03,
+      "change_percent": 0.36,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 9.57,
+      "revenue": 323418.48,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 35.73,
+      "debt_to_equity": 1.13,
+      "cash_flow": 66099.77
+    },
+    "analyst_ratings": {
+      "buy": 4,
+      "hold": 5,
+      "sell": 3,
+      "target_price_avg": 1898.51
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-20",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-06",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2116.54,
+      "change_percent": 2.62,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 21.34,
+      "revenue": 30965.76,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 27.34,
+      "debt_to_equity": 1.43,
+      "cash_flow": 29165.95
+    },
+    "analyst_ratings": {
+      "buy": 7,
+      "hold": 5,
+      "sell": 5,
+      "target_price_avg": 2390.9
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-19",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 3815.32,
+      "change_percent": -1.77,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 23.96,
+      "revenue": 762215.91,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 40.79,
+      "debt_to_equity": 0.17,
+      "cash_flow": 10210.51
+    },
+    "analyst_ratings": {
+      "buy": 50,
+      "hold": 10,
+      "sell": 1,
+      "target_price_avg": 5367.68
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-19",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1936.43,
+      "change_percent": 2.25,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 14.51,
+      "revenue": 545709.94,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 11.88,
+      "debt_to_equity": 1.71,
+      "cash_flow": 48374.86
+    },
+    "analyst_ratings": {
+      "buy": 40,
+      "hold": 3,
+      "sell": 9,
+      "target_price_avg": 2181.15
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-17",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-26",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-25",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3022.79,
+      "change_percent": 3.39,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 12.05,
+      "revenue": 280211.38,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 42.87,
+      "debt_to_equity": 1.8,
+      "cash_flow": 81958.28
+    },
+    "analyst_ratings": {
+      "buy": 25,
+      "hold": 6,
+      "sell": 1,
+      "target_price_avg": 3044.3
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-07",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-25",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2234.49,
+      "change_percent": -1.04,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 27.94,
+      "revenue": 682781.52,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 44.33,
+      "debt_to_equity": 1.63,
+      "cash_flow": 7498.22
+    },
+    "analyst_ratings": {
+      "buy": 33,
+      "hold": 16,
+      "sell": 2,
+      "target_price_avg": 2383.1
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-21",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-04",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1793.48,
+      "change_percent": 0.42,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 19.73,
+      "revenue": 553644.57,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.55,
+      "debt_to_equity": 0.39,
+      "cash_flow": 77373.62
+    },
+    "analyst_ratings": {
+      "buy": 39,
+      "hold": 14,
+      "sell": 6,
+      "target_price_avg": 2323.79
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-24",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-14",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 2228.36,
+      "change_percent": 3.04,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 11.49,
+      "revenue": 326934.26,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 46.45,
+      "debt_to_equity": 1.22,
+      "cash_flow": 95951.62
+    },
+    "analyst_ratings": {
+      "buy": 4,
+      "hold": 15,
+      "sell": 4,
+      "target_price_avg": 3341.34
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-15",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 687.8,
+      "change_percent": 3.13,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 25.76,
+      "revenue": 813752.12,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 34.76,
+      "debt_to_equity": 1.35,
+      "cash_flow": 54751.97
+    },
+    "analyst_ratings": {
+      "buy": 17,
+      "hold": 20,
+      "sell": 7,
+      "target_price_avg": 1017.09
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-18",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-29",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2936.35,
+      "change_percent": 3.16,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 18.11,
+      "revenue": 142607.89,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 24.77,
+      "debt_to_equity": 0.21,
+      "cash_flow": 45149.55
+    },
+    "analyst_ratings": {
+      "buy": 6,
+      "hold": 7,
+      "sell": 1,
+      "target_price_avg": 2960.7
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-08",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-22",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 2181.77,
+      "change_percent": -2.0,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 16.2,
+      "revenue": 73392.85,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 13.98,
+      "debt_to_equity": 1.61,
+      "cash_flow": 90988.75
+    },
+    "analyst_ratings": {
+      "buy": 24,
+      "hold": 5,
+      "sell": 9,
+      "target_price_avg": 2826.07
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-19",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-28",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-02",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2096.31,
+      "change_percent": -3.01,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 4.44,
+      "revenue": 29943.88,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 20.49,
+      "debt_to_equity": 0.24,
+      "cash_flow": 4008.58
+    },
+    "analyst_ratings": {
+      "buy": 19,
+      "hold": 9,
+      "sell": 8,
+      "target_price_avg": 2878.28
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-21",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-29",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-16",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 612.24,
+      "change_percent": 3.62,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 12.85,
+      "revenue": 919941.93,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 20.67,
+      "debt_to_equity": 1.8,
+      "cash_flow": 11999.98
+    },
+    "analyst_ratings": {
+      "buy": 43,
+      "hold": 7,
+      "sell": 5,
+      "target_price_avg": 828.45
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-12",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2628.65,
+      "change_percent": 3.24,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 3.64,
+      "revenue": 619706.65,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 15.83,
+      "debt_to_equity": 1.1,
+      "cash_flow": 66258.78
+    },
+    "analyst_ratings": {
+      "buy": 14,
+      "hold": 19,
+      "sell": 6,
+      "target_price_avg": 2720.88
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-28",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3389.41,
+      "change_percent": 0.38,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 13.94,
+      "revenue": 978940.21,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 46.52,
+      "debt_to_equity": 1.17,
+      "cash_flow": 21809.35
+    },
+    "analyst_ratings": {
+      "buy": 45,
+      "hold": 18,
+      "sell": 10,
+      "target_price_avg": 3960.79
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-04",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-06",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1447.08,
+      "change_percent": -4.93,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 9.1,
+      "revenue": 937109.74,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 45.33,
+      "debt_to_equity": 0.79,
+      "cash_flow": 14734.96
+    },
+    "analyst_ratings": {
+      "buy": 35,
+      "hold": 8,
+      "sell": 4,
+      "target_price_avg": 1480.0
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-22",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-15",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2643.7,
+      "change_percent": -0.77,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 21.85,
+      "revenue": 280693.77,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 6.66,
+      "debt_to_equity": 1.88,
+      "cash_flow": 41839.1
+    },
+    "analyst_ratings": {
+      "buy": 8,
+      "hold": 14,
+      "sell": 10,
+      "target_price_avg": 2888.98
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-10",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-02",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1938.15,
+      "change_percent": 4.4,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 27.98,
+      "revenue": 930528.68,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.86,
+      "debt_to_equity": 0.87,
+      "cash_flow": 85697.55
+    },
+    "analyst_ratings": {
+      "buy": 6,
+      "hold": 2,
+      "sell": 5,
+      "target_price_avg": 1959.29
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-13",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-20",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-23",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2978.84,
+      "change_percent": 3.5,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 14.33,
+      "revenue": 662704.76,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 23.01,
+      "debt_to_equity": 0.22,
+      "cash_flow": 61424.53
+    },
+    "analyst_ratings": {
+      "buy": 1,
+      "hold": 10,
+      "sell": 4,
+      "target_price_avg": 2489.49
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-02",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-02",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-31",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1089.55,
+      "change_percent": -2.45,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 28.37,
+      "revenue": 876264.24,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 22.31,
+      "debt_to_equity": 1.07,
+      "cash_flow": 34196.67
+    },
+    "analyst_ratings": {
+      "buy": 33,
+      "hold": 12,
+      "sell": 6,
+      "target_price_avg": 1615.22
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-31",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-24",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-10",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1038.58,
+      "change_percent": -3.14,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 2.55,
+      "revenue": 493928.07,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 12.82,
+      "debt_to_equity": 0.54,
+      "cash_flow": 72880.78
+    },
+    "analyst_ratings": {
+      "buy": 26,
+      "hold": 12,
+      "sell": 6,
+      "target_price_avg": 1146.8
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-23",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2953.21,
+      "change_percent": -2.18,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 20.63,
+      "revenue": 939471.95,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.1,
+      "debt_to_equity": 0.58,
+      "cash_flow": 50191.52
+    },
+    "analyst_ratings": {
+      "buy": 39,
+      "hold": 11,
+      "sell": 1,
+      "target_price_avg": 3537.65
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-13",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-27",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-08",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 3594.81,
+      "change_percent": -0.78,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2024",
+      "eps": 1.48,
+      "revenue": 799636.23,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 34.98,
+      "debt_to_equity": 0.24,
+      "cash_flow": 23902.85
+    },
+    "analyst_ratings": {
+      "buy": 24,
+      "hold": 15,
+      "sell": 6,
+      "target_price_avg": 3982.7
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-24",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-23",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-24",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2493.0,
+      "change_percent": 4.28,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 17.78,
+      "revenue": 168184.03,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 18.78,
+      "debt_to_equity": 0.61,
+      "cash_flow": 56229.02
+    },
+    "analyst_ratings": {
+      "buy": 31,
+      "hold": 0,
+      "sell": 8,
+      "target_price_avg": 2290.55
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-15",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1895.48,
+      "change_percent": -0.02,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 21.01,
+      "revenue": 644788.63,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 29.73,
+      "debt_to_equity": 1.64,
+      "cash_flow": 34073.3
+    },
+    "analyst_ratings": {
+      "buy": 47,
+      "hold": 13,
+      "sell": 4,
+      "target_price_avg": 1636.92
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-15",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-20",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-16",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1861.52,
+      "change_percent": -2.72,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 17.58,
+      "revenue": 228293.1,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 5.84,
+      "debt_to_equity": 1.55,
+      "cash_flow": 48972.59
+    },
+    "analyst_ratings": {
+      "buy": 18,
+      "hold": 15,
+      "sell": 7,
+      "target_price_avg": 2060.04
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-18",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-31",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 770.38,
+      "change_percent": 3.66,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 13.11,
+      "revenue": 199073.15,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 10.86,
+      "debt_to_equity": 0.1,
+      "cash_flow": 83892.24
+    },
+    "analyst_ratings": {
+      "buy": 17,
+      "hold": 20,
+      "sell": 1,
+      "target_price_avg": 794.01
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-08",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-16",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-30",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 789.35,
+      "change_percent": 0.22,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 17.88,
+      "revenue": 943103.52,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 5.77,
+      "debt_to_equity": 1.05,
+      "cash_flow": 17801.91
+    },
+    "analyst_ratings": {
+      "buy": 3,
+      "hold": 12,
+      "sell": 2,
+      "target_price_avg": 894.7
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-29",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-18",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-12",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 651.62,
+      "change_percent": 0.6,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 12.31,
+      "revenue": 273613.49,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 21.87,
+      "debt_to_equity": 0.24,
+      "cash_flow": 6597.55
+    },
+    "analyst_ratings": {
+      "buy": 39,
+      "hold": 17,
+      "sell": 10,
+      "target_price_avg": 576.18
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-10",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-13",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 2615.62,
+      "change_percent": -0.16,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 24.01,
+      "revenue": 424318.21,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 16.21,
+      "debt_to_equity": 0.06,
+      "cash_flow": 40263.37
+    },
+    "analyst_ratings": {
+      "buy": 0,
+      "hold": 20,
+      "sell": 5,
+      "target_price_avg": 2716.45
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-19",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-06",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-27",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1897.54,
+      "change_percent": -0.61,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 3.63,
+      "revenue": 63965.31,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 7.83,
+      "debt_to_equity": 1.75,
+      "cash_flow": 5864.76
+    },
+    "analyst_ratings": {
+      "buy": 39,
+      "hold": 13,
+      "sell": 3,
+      "target_price_avg": 2283.12
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-24",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1319.18,
+      "change_percent": 4.64,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 27.32,
+      "revenue": 295209.94,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 17.77,
+      "debt_to_equity": 1.66,
+      "cash_flow": 74852.77
+    },
+    "analyst_ratings": {
+      "buy": 15,
+      "hold": 7,
+      "sell": 0,
+      "target_price_avg": 1888.49
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-18",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-29",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-18",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 968.84,
+      "change_percent": -1.94,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 21.71,
+      "revenue": 388199.7,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 22.57,
+      "debt_to_equity": 0.87,
+      "cash_flow": 17769.29
+    },
+    "analyst_ratings": {
+      "buy": 16,
+      "hold": 13,
+      "sell": 3,
+      "target_price_avg": 796.81
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-15",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 3588.81,
+      "change_percent": -4.19,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 24.19,
+      "revenue": 102488.05,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 20.45,
+      "debt_to_equity": 0.43,
+      "cash_flow": 7179.77
+    },
+    "analyst_ratings": {
+      "buy": 25,
+      "hold": 20,
+      "sell": 3,
+      "target_price_avg": 5360.13
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-05",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 2327.98,
+      "change_percent": 1.06,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 23.77,
+      "revenue": 618612.58,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 14.14,
+      "debt_to_equity": 1.05,
+      "cash_flow": 39121.39
+    },
+    "analyst_ratings": {
+      "buy": 45,
+      "hold": 15,
+      "sell": 7,
+      "target_price_avg": 2893.83
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-30",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 2343.04,
+      "change_percent": -0.92,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 26.11,
+      "revenue": 220825.66,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 17.67,
+      "debt_to_equity": 0.31,
+      "cash_flow": 92733.19
+    },
+    "analyst_ratings": {
+      "buy": 18,
+      "hold": 7,
+      "sell": 10,
+      "target_price_avg": 2716.48
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-28",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2837.19,
+      "change_percent": 3.08,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 17.48,
+      "revenue": 186948.8,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 19.43,
+      "debt_to_equity": 0.92,
+      "cash_flow": 70029.91
+    },
+    "analyst_ratings": {
+      "buy": 35,
+      "hold": 9,
+      "sell": 6,
+      "target_price_avg": 2663.93
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-17",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3335.51,
+      "change_percent": 3.59,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 17.54,
+      "revenue": 270686.68,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.29,
+      "debt_to_equity": 1.93,
+      "cash_flow": 3196.99
+    },
+    "analyst_ratings": {
+      "buy": 47,
+      "hold": 8,
+      "sell": 8,
+      "target_price_avg": 4065.72
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-16",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2261.54,
+      "change_percent": -0.89,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 12.84,
+      "revenue": 90503.41,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 25.8,
+      "debt_to_equity": 1.63,
+      "cash_flow": 13181.89
+    },
+    "analyst_ratings": {
+      "buy": 30,
+      "hold": 5,
+      "sell": 5,
+      "target_price_avg": 2957.34
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-04",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-15",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1799.8,
+      "change_percent": 3.1,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 12.28,
+      "revenue": 890991.31,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 12.0,
+      "debt_to_equity": 1.35,
+      "cash_flow": 25366.98
+    },
+    "analyst_ratings": {
+      "buy": 23,
+      "hold": 15,
+      "sell": 6,
+      "target_price_avg": 1566.62
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-23",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1005.14,
+      "change_percent": -4.61,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 28.52,
+      "revenue": 374884.24,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 8.6,
+      "debt_to_equity": 0.45,
+      "cash_flow": 54754.54
+    },
+    "analyst_ratings": {
+      "buy": 16,
+      "hold": 0,
+      "sell": 9,
+      "target_price_avg": 1157.44
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-09-07",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 1190.03,
+      "change_percent": -4.61,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 11.59,
+      "revenue": 243958.68,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 11.53,
+      "debt_to_equity": 1.26,
+      "cash_flow": 15169.55
+    },
+    "analyst_ratings": {
+      "buy": 17,
+      "hold": 2,
+      "sell": 4,
+      "target_price_avg": 1100.2
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-09",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 2457.88,
+      "change_percent": -4.94,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 28.14,
+      "revenue": 770143.66,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 34.15,
+      "debt_to_equity": 1.27,
+      "cash_flow": 88701.82
+    },
+    "analyst_ratings": {
+      "buy": 31,
+      "hold": 17,
+      "sell": 10,
+      "target_price_avg": 2106.37
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-14",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-16",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 2565.81,
+      "change_percent": 4.92,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 15.17,
+      "revenue": 869359.28,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 12.97,
+      "debt_to_equity": 0.46,
+      "cash_flow": 45575.23
+    },
+    "analyst_ratings": {
+      "buy": 27,
+      "hold": 20,
+      "sell": 5,
+      "target_price_avg": 2748.85
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-09",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1981.98,
+      "change_percent": -3.57,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2025",
+      "eps": 21.65,
+      "revenue": 335329.3,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 17.93,
+      "debt_to_equity": 0.6,
+      "cash_flow": 95924.35
+    },
+    "analyst_ratings": {
+      "buy": 3,
+      "hold": 7,
+      "sell": 8,
+      "target_price_avg": 2050.9
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-17",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-22",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-21",
+        "source": "Economic Times",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 3237.32,
+      "change_percent": -2.21,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 11.34,
+      "revenue": 894590.54,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 9.65,
+      "debt_to_equity": 1.89,
+      "cash_flow": 80007.28
+    },
+    "analyst_ratings": {
+      "buy": 49,
+      "hold": 20,
+      "sell": 4,
+      "target_price_avg": 4290.17
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-31",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-01",
+        "source": "Moneycontrol",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 2153.14,
+      "change_percent": 4.88,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 5.07,
+      "revenue": 339107.54,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 32.02,
+      "debt_to_equity": 0.19,
+      "cash_flow": 57649.16
+    },
+    "analyst_ratings": {
+      "buy": 4,
+      "hold": 18,
+      "sell": 10,
+      "target_price_avg": 2493.64
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-20",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-05",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 927.95,
+      "change_percent": -1.15,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 19.26,
+      "revenue": 930143.38,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 16.5,
+      "debt_to_equity": 1.29,
+      "cash_flow": 20569.41
+    },
+    "analyst_ratings": {
+      "buy": 0,
+      "hold": 19,
+      "sell": 10,
+      "target_price_avg": 855.18
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-14",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 870.73,
+      "change_percent": 4.78,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 3.02,
+      "revenue": 681229.67,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 27.8,
+      "debt_to_equity": 0.94,
+      "cash_flow": 35594.52
+    },
+    "analyst_ratings": {
+      "buy": 15,
+      "hold": 20,
+      "sell": 5,
+      "target_price_avg": 838.48
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-04",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 1056.53,
+      "change_percent": 4.99,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2025",
+      "eps": 28.52,
+      "revenue": 865585.55,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 18.09,
+      "debt_to_equity": 0.28,
+      "cash_flow": 68505.78
+    },
+    "analyst_ratings": {
+      "buy": 21,
+      "hold": 1,
+      "sell": 2,
+      "target_price_avg": 879.21
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-11",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-08-23",
+        "source": "Moneycontrol",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "RELIANCE",
+    "price_info": {
+      "current_price": 1630.83,
+      "change_percent": -3.24,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2024",
+      "eps": 19.07,
+      "revenue": 805613.77,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 7.92,
+      "debt_to_equity": 1.38,
+      "cash_flow": 72969.75
+    },
+    "analyst_ratings": {
+      "buy": 47,
+      "hold": 17,
+      "sell": 0,
+      "target_price_avg": 1583.58
+    },
+    "news": [
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-17",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-29",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "RELIANCE headline about performance",
+        "date": "2025-08-17",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3709.72,
+      "change_percent": 2.05,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2024",
+      "eps": 15.31,
+      "revenue": 383759.18,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 38.78,
+      "debt_to_equity": 0.87,
+      "cash_flow": 76650.13
+    },
+    "analyst_ratings": {
+      "buy": 19,
+      "hold": 18,
+      "sell": 6,
+      "target_price_avg": 3482.9
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-05",
+        "source": "Reuters",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1080.95,
+      "change_percent": -1.99,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q2 FY2023",
+      "eps": 9.17,
+      "revenue": 243545.71,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 49.97,
+      "debt_to_equity": 1.66,
+      "cash_flow": 74980.96
+    },
+    "analyst_ratings": {
+      "buy": 42,
+      "hold": 11,
+      "sell": 1,
+      "target_price_avg": 1247.0
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-22",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 550.74,
+      "change_percent": -2.51,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 2.6,
+      "revenue": 157004.54,
+      "estimates_met": false
+    },
+    "financial_ratios": {
+      "pe_ratio": 15.13,
+      "debt_to_equity": 1.25,
+      "cash_flow": 58249.23
+    },
+    "analyst_ratings": {
+      "buy": 46,
+      "hold": 2,
+      "sell": 9,
+      "target_price_avg": 808.11
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-11",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-08-30",
+        "source": "Reuters",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "SBIN",
+    "price_info": {
+      "current_price": 3411.83,
+      "change_percent": -4.44,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 28.9,
+      "revenue": 556685.88,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 24.43,
+      "debt_to_equity": 1.96,
+      "cash_flow": 79430.53
+    },
+    "analyst_ratings": {
+      "buy": 41,
+      "hold": 12,
+      "sell": 2,
+      "target_price_avg": 2959.1
+    },
+    "news": [
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-03",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-08",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "SBIN headline about performance",
+        "date": "2025-09-06",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 3863.96,
+      "change_percent": 1.38,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2023",
+      "eps": 7.4,
+      "revenue": 353063.69,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 48.03,
+      "debt_to_equity": 0.09,
+      "cash_flow": 87420.47
+    },
+    "analyst_ratings": {
+      "buy": 5,
+      "hold": 4,
+      "sell": 7,
+      "target_price_avg": 3212.46
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-27",
+        "source": "Reuters",
+        "sentiment": "negative"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-25",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-03",
+        "source": "Reuters",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 1765.57,
+      "change_percent": 4.17,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 15.48,
+      "revenue": 350709.57,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 32.72,
+      "debt_to_equity": 0.91,
+      "cash_flow": 85588.0
+    },
+    "analyst_ratings": {
+      "buy": 15,
+      "hold": 9,
+      "sell": 1,
+      "target_price_avg": 1482.08
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-09-07",
+        "source": "Moneycontrol",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2370.87,
+      "change_percent": -2.73,
+      "trend_7days": "downtrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2024",
+      "eps": 25.97,
+      "revenue": 738224.25,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 27.13,
+      "debt_to_equity": 0.03,
+      "cash_flow": 13308.22
+    },
+    "analyst_ratings": {
+      "buy": 13,
+      "hold": 5,
+      "sell": 1,
+      "target_price_avg": 3327.31
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-13",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-04",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-31",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "TCS",
+    "price_info": {
+      "current_price": 1161.05,
+      "change_percent": -3.87,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q1 FY2025",
+      "eps": 9.35,
+      "revenue": 850126.65,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 39.98,
+      "debt_to_equity": 1.84,
+      "cash_flow": 74205.92
+    },
+    "analyst_ratings": {
+      "buy": 21,
+      "hold": 3,
+      "sell": 7,
+      "target_price_avg": 986.55
+    },
+    "news": [
+      {
+        "headline": "TCS headline about performance",
+        "date": "2025-09-03",
+        "source": "Economic Times",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "neutral",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 1734.96,
+      "change_percent": 1.99,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2023",
+      "eps": 26.12,
+      "revenue": 269893.44,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 11.68,
+      "debt_to_equity": 0.79,
+      "cash_flow": 23749.64
+    },
+    "analyst_ratings": {
+      "buy": 9,
+      "hold": 10,
+      "sell": 9,
+      "target_price_avg": 2483.16
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-13",
+        "source": "Reuters",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-08-29",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      }
+    ],
+    "sentiment_summary": "positive",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "INFY",
+    "price_info": {
+      "current_price": 1520.83,
+      "change_percent": 1.4,
+      "trend_7days": "uptrend"
+    },
+    "earnings_summary": {
+      "quarter": "Q3 FY2023",
+      "eps": 9.01,
+      "revenue": 272636.22,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 33.16,
+      "debt_to_equity": 0.27,
+      "cash_flow": 40217.45
+    },
+    "analyst_ratings": {
+      "buy": 5,
+      "hold": 12,
+      "sell": 6,
+      "target_price_avg": 1262.53
+    },
+    "news": [
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-17",
+        "source": "Bloomberg",
+        "sentiment": "positive"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-16",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "INFY headline about performance",
+        "date": "2025-08-23",
+        "source": "Economic Times",
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  },
+  {
+    "ticker": "HAL",
+    "price_info": {
+      "current_price": 2920.01,
+      "change_percent": 0.47,
+      "trend_7days": "sideways"
+    },
+    "earnings_summary": {
+      "quarter": "Q4 FY2025",
+      "eps": 10.58,
+      "revenue": 562857.08,
+      "estimates_met": true
+    },
+    "financial_ratios": {
+      "pe_ratio": 32.54,
+      "debt_to_equity": 1.6,
+      "cash_flow": 25881.94
+    },
+    "analyst_ratings": {
+      "buy": 48,
+      "hold": 12,
+      "sell": 1,
+      "target_price_avg": 2865.07
+    },
+    "news": [
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-05",
+        "source": "Bloomberg",
+        "sentiment": "neutral"
+      },
+      {
+        "headline": "HAL headline about performance",
+        "date": "2025-09-04",
+        "source": "Bloomberg",
+        "sentiment": "negative"
+      }
+    ],
+    "sentiment_summary": "negative",
+    "references": [
+      {
+        "source": "SyntheticDataGen",
+        "url": "http://example.com"
+      }
+    ]
+  }
+]
