@@ -3,7 +3,7 @@ from datetime import date
 from google_genai_service import google_genai_response
 from store_collection_in_firestore import store_collection_in_firestore
 
-def fetch_tickers_list():
+def fetch_relevant_tickers_list():
     # query = ("What are the top 100 most news-active tickers traded in the Indian stock market "
     #          "in the last 7 days? List the company name, ticker symbol for BSE, "
     #          "and top 3 references in JSON format as "
@@ -32,5 +32,5 @@ def store_tickers_in_firestore(tickers_data):
     store_collection_in_firestore(collection_name, firestore_document)
 
 if __name__ == "__main__":
-    analysis_results = fetch_tickers_list()
+    analysis_results = fetch_relevant_tickers_list()
     print(json.dumps(analysis_results, indent=2))
